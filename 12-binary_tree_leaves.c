@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_leaves - measures the leaves in a binary tree
- * @tree:  pointer to the root node of the tree to measure the size
+ * @tree:  pointer to the root node of the tree to measure the leaves
  *
  * Return: If tree is NULL, return 0 otherwise return leaves
  */
